@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "1Dark RainCoat",
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  //   "editor.codeActionsOnSave": {
+  //     "source.fixAll.eslint": true
+  //   },
+  "files.autoSave": "onFocusChange",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
