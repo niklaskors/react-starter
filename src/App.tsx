@@ -8,6 +8,7 @@ function App() {
   return (
     <div className={styles.app}>
       <div>
+        <h1>Appster</h1>
         <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
           <img src="/vite.svg" className="logo" alt="Vite logo" />
         </a>
