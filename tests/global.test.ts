@@ -1,4 +1,6 @@
-import { describe } from 'vitest';
+import { describe, it } from 'vitest';
 
-// Global tests run in parallel
-describe.concurrent('global', () => {});
+// Add global tests here
+describe.concurrent('global', () => {
+  it('should run', () => {});
+});
